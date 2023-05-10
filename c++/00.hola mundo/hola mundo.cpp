@@ -57,6 +57,5 @@ int main() {
     elegir_color();
     pedir_nombre();
     imprimir_salida();
-    
     getchar();
 }
